@@ -1,17 +1,8 @@
----
-
-title: AgriConnect
-emoji: 🌾
-colorFrom: green
-colorTo: yellow
-sdk: static
------------
-
 # 🌾 AgriConnect — Farmer to Customer Marketplace
 
-**Academic Full Stack Project | MERN Stack | 2025**
+**Full Stack MERN Project**
 
-AgriConnect is a full-stack web platform that enables farmers to sell agricultural produce directly to customers without intermediaries. The platform improves price transparency, market reach, and accessibility through a responsive and user-friendly interface.
+AgriConnect is a full-stack web platform that enables farmers to sell agricultural produce directly to customers without intermediaries. The system improves market accessibility, pricing transparency, and user experience through a responsive web interface.
 
 ---
 
